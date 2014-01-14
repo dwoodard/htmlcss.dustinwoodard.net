@@ -16,21 +16,13 @@
 	<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
 	<script src="js/functions.js" type="text/javascript"></script>
 </head>
-<body>
+<body id="tools">
 	<div id="wrapper">
 
 		<!-- top-nav -->
-		<nav class="top-nav">
-			<div class="shell">
-				<a href="#" class="nav-btn">HOMEPAGE<span></span></a>
-				<span class="top-nav-shadow"></span>
-				<ul>
-					<li class="active"><span><a href="/">home</a></span></li>
-					<li><span><a href="projects.html">projects</a></span></li>
-				</ul>
-			</div>
-		</nav>
+		<?php include 'includes/nav.php'; ?>
 		<!-- end of top-nav -->
+
 			<!-- header -->
 			<header  id="header">
 				<!-- shell -->
@@ -38,31 +30,14 @@
 					<div class="header-inner">
 						<!-- header-cnt -->
 						<div class="header-cnt">
-							<h1>Projects</h1>
+							<h1>Tools</h1>
 							<p>
-								<span class="mobile">Welcome to HTML/CSS class. </span>
-								<span class="desktop"> This site will be a reference for all the stuff we go over in class and possibly what ever else might come to mind.</span>
+								Get the right tool for job.
 							</p>
 							<!-- <a href="#" class="blue-btn">GET STARTED NOW</a> -->
 						</div>
 						<!-- end of header-cnt -->
-						<!-- slider -->
-						<!-- <div class="slider-holder">
-							<div class="flexslider">
-								<ul class="slides">
-									<li><img src="css/images/slide-img.png" alt="" /></li>
 
-									<li><img src="css/images/slide-img.png" alt="" /></li>
-
-									<li><img src="css/images/slide-img.png" alt="" /></li>
-
-									<li><img src="css/images/slide-img.png" alt="" /></li>
-
-									<li><img src="css/images/slide-img.png" alt="" /></li>
-								</ul>
-							</div>
-						</div> -->
-						<!-- end of slider -->
 						<div class="cl">&nbsp;</div>
 					</div>
 					<div class="cl">&nbsp;</div>
@@ -76,48 +51,27 @@
 				<!-- shell -->
 				<div class="shell">
 					<div class="container">
-						<!-- testimonial -->
-						<!-- <section class="testimonial">
-							<h2>Responsive CSS Template with jQuery Slider</h2>
-							<p><strong>“</strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie condimentum consequat. Nam leo libero, scelerisque tincidunt commodo id, hendrerit vitae orci. <span class="mobile">Suspendisse eget nibh turpis. Sed at accumsan neque. Praesent purus eros, egestas eu tempus ut, mollis et libero"</span></p>
-						</section> -->
-						<!-- testimonial -->
 
-						<section>
-							<h2>Jane Doe Project</h2>
-							<a href="/projects/jane-doe.png">Jane Doe Template</a>
+						<section class="tool-item ">
+							<h2>Sublime Text 3</h2>
+							<div class="content-left">
+								<iframe src="http://www.screenr.com/embed/55sN" width="650" height="396" frameborder="0"></iframe>
+							</div>
+							<div class="content-right">
+								<a href="http://www.sublimetext.com/3">Sublime text download</a>
+							</div>
+
 						</section>
 
-						<section>
-							<h2>Final Project</h2>
-							<!-- <a href="/projects/jane-doe.png">Jane Doe Template</a> -->
-							<h3>Goal: Create a Portfolio/Brochure website with the following files &amp; features: </h3>
-							<p>File Structure:</p>
-							<ul id="project-specs">
-								<li> index.html - containing home, about, contact data </li>
-								<li> css
-									<ul>
-										<li>img (all css images)</li>
-										<li>style.css</li>
-										<li>reset.css</li>
-									</ul>
-								</li>
-								<li> js
-									<ul>
-										<li> vendor </li>
-										<ul>
-											<li>jquery.js </li>
-											<li> main.js </li>
-										</ul>
-									</ul>
-								</li>
-								<li> img
-									<ul>
-										<li>All Site Images </li>
-									</ul>
-								</li>
-								<li> favicon.ico </li>
-							</ul>
+						<section class="tool-item">
+							<h2>Wamp / Mamp</h2>
+							<a href="http://www.wampserver.com/en/#download-wrapper">WAMP</a>
+							<a href="http://www.mamp.info/en/downloads/index.html?utm_term=Recent%20php%20Bookmarks%20on%20Delicious">Mamp</a>
+							<div class="cl"></div>
+						</section>
+
+						<section class="tool-item">
+							<h2>Github</h2>
 
 						</section>
 
