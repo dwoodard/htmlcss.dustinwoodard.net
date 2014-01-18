@@ -58,7 +58,10 @@
 								<iframe src="http://www.screenr.com/embed/55sN" width="650" height="396" frameborder="0"></iframe>
 							</div>
 							<div class="content-right">
-								<a href="http://www.sublimetext.com/3">Sublime text download</a>
+								<ul>
+									<li> <a href="http://www.sublimetext.com/3">Sublime text download</a> </li>
+									<li> <a href="http://www.sublimetext.com/3">Wbond - Package manager</a> </li>
+								</ul>
 							</div>
 
 						</section>

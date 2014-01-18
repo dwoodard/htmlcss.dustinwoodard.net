@@ -64,6 +64,7 @@
 							<h2>References</h2>
 							<ul>
 								<li><a href="http://www.w3.org/TR/selectors/#selectors/">CSS Selectors</a></li>
+								<li><a href="https://github.com/dwoodard/jane_doe">GitHub - Dwoodard jane_doe</a></li>
 							</ul>
 
 							</div>
