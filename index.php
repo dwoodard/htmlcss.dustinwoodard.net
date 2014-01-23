@@ -30,7 +30,6 @@
 
 
 
-			
 			<!-- main -->
 			<div class="main">
 				<span class="shadow-top"></span>
@@ -65,6 +64,15 @@
 							<ul>
 								<li><a href="http://www.w3.org/TR/selectors/#selectors/">CSS Selectors</a></li>
 								<li><a href="https://github.com/dwoodard/jane_doe">GitHub - Dwoodard jane_doe</a></li>
+							</ul>
+
+							</div>
+							<div class="col">
+
+							<h2>Quizzes and Challenges</h2>
+							<ul>
+								<li><a href="http://www.oneplusyou.com/bb/html_quiz/">Name as many <em>Html Tags</em> as you can in 5 minutes</a></li>
+								<li><a href="http://www.oneplusyou.com/bb/css_quiz">Name as many <em>CSS Properties</em> as you can in 5 minutes</a></li>
 							</ul>
 
 							</div>

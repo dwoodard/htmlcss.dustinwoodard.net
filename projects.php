@@ -76,8 +76,14 @@
 
 						<section>
 							<h2>Final Project</h2>
-							<h3>Goal: Create a Portfolio/Brochure website with the following files &amp; Content: </h3>
+							<h3>Create a <a href="http://github.com">Git Project</a> &amp; <a href="mailto:dustin.woodard@gmail.com?subject=Github%20Final%20Project">email</a> me the link.</h3>
+							<h4>Create Git Project:</h4>
 
+							<ul>
+								<li>Name the project: <strong>html-final</strong></li>
+							</ul>
+							<br>
+							<h3>Goal: Create a Portfolio/Brochure website with the following files &amp; content: </h3>
 
 							<h4>File Structure:</h4>
 							<ul>
@@ -117,50 +123,49 @@
 								<li>Header
 									<ul>
 										<li>A "Hero Shot" (help the user know why they are there), with a small paragraph
-										and some call to action.  Example: Buy Now; or Learn more</li>
+											and some call to action.  Example: Buy Now; or Learn more</li>
 
-										<li>Use Images or background colors to call attention to it</li>
+											<li>Use Images or background colors to call attention to it</li>
 
-									</ul>
-								</li>
-								<li>Body
-									<ul>
-										<li>You choose this content *** Impress Me***</li>
-									</ul>
-								</li>
-								<li>Footer
-									<ul>
-										<li>Add a Copywrite to your stuff</li>
-										<li>Shortcut links</li>
-									</ul>
-								</li>
-							</ul>
-							<br/>
-							<h4>Create a Git Project &amp; email me the link.</h4>
-						</section>
+										</ul>
+									</li>
+									<li>Body
+										<ul>
+											<li>You choose this content *** Impress Me***</li>
+										</ul>
+									</li>
+									<li>Footer
+										<ul>
+											<li>Add a Copywrite to your stuff</li>
+											<li>Shortcut links</li>
+										</ul>
+									</li>
+								</ul>
 
+							</section>
 
 
 
+
+						</div>
+						<!-- end of shell -->
 					</div>
-					<!-- end of shell -->
+					<!-- end of container -->
 				</div>
-				<!-- end of container -->
+				<!-- end of main -->
 			</div>
-			<!-- end of main -->
-		</div>
-		<!-- footer-push -->
-		<div id="footer-push"></div>
-		<!-- end of footer-push -->
+			<!-- footer-push -->
+			<div id="footer-push"></div>
+			<!-- end of footer-push -->
 
-		<!-- end of wrapper -->
-		<!-- footer -->
-		<div  id="footer">
-			<span class="shadow-bottom"></span>
-			<!-- footer-cols -->
-			<div class="footer-cols">
-				<!-- shell -->
-				<div class="shell">
+			<!-- end of wrapper -->
+			<!-- footer -->
+			<div  id="footer">
+				<span class="shadow-bottom"></span>
+				<!-- footer-cols -->
+				<div class="footer-cols">
+					<!-- shell -->
+					<div class="shell">
 				<!-- <div class="col">
 					<h3><a href="#">Solutions</a></h3>
 					<div class="col-cnt">
