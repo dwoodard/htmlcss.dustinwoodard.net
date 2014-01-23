@@ -131,7 +131,7 @@
 									</li>
 									<li>Body
 										<ul>
-											<li>You choose this content *** Impress Me***</li>
+											<li>You choose this content *** Impress Me :) ***</li>
 										</ul>
 									</li>
 									<li>Footer
