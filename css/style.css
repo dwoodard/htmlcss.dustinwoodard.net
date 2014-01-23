@@ -11,6 +11,8 @@ body {
 	min-width: 980px;
 }
 
+ul{margin-left: 30px;}
+
 /*font-family: 'Ubuntu', sans-serif;*/
 
 a { color: #067aa7; text-decoration: none; cursor: pointer; }
@@ -42,6 +44,9 @@ textarea { overflow: auto; }
 .clearfix { display: block; }
 /* close commented backslash hack */
 
+
+
+#project-specs{margin-bottom: 30px;}
 
 .notext { font-size: 0; line-height: 0; text-indent: -4000px; }
 .left, .alignleft { float: left; display: inline; }

@@ -12,16 +12,16 @@
 	<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
 	<!--[if lt IE 9]>
 		<script src="js/modernizr.custom.js"></script>
-	<![endif]-->
-	<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
-	<script src="js/functions.js" type="text/javascript"></script>
-</head>
-<body id="projects">
-	<div id="wrapper">
+		<![endif]-->
+		<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+		<script src="js/functions.js" type="text/javascript"></script>
+	</head>
+	<body id="projects">
+		<div id="wrapper">
 
-		<!-- top-nav -->
-		<?php include 'includes/nav.php'; ?>
-		<!-- end of top-nav -->
+			<!-- top-nav -->
+			<?php include 'includes/nav.php'; ?>
+			<!-- end of top-nav -->
 
 			<!-- header -->
 			<header  id="header">
@@ -68,12 +68,6 @@
 				<!-- shell -->
 				<div class="shell">
 					<div class="container">
-						<!-- testimonial -->
-						<!-- <section class="testimonial">
-							<h2>Responsive CSS Template with jQuery Slider</h2>
-							<p><strong>“</strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie condimentum consequat. Nam leo libero, scelerisque tincidunt commodo id, hendrerit vitae orci. <span class="mobile">Suspendisse eget nibh turpis. Sed at accumsan neque. Praesent purus eros, egestas eu tempus ut, mollis et libero"</span></p>
-						</section> -->
-						<!-- testimonial -->
 
 						<section>
 							<h2>Jane Doe Project</h2>
@@ -82,42 +76,74 @@
 
 						<section>
 							<h2>Final Project</h2>
-							<!-- <a href="/projects/jane-doe.png">Jane Doe Template</a> -->
-							<h3>Goal: Create a Portfolio/Brochure website with the following files &amp; features: </h3>
-							<p>File Structure:</p>
-							<ul id="project-specs">
-								<li> index.html - containing home, about, contact data </li>
-								<li> css
+							<h3>Goal: Create a Portfolio/Brochure website with the following files &amp; Content: </h3>
+
+
+							<h4>File Structure:</h4>
+							<ul>
+								<li>index.html - containing home, about, contact content</li>
+								<li>css
 									<ul>
 										<li>img (all css images)</li>
 										<li>style.css</li>
 										<li>reset.css</li>
 									</ul>
 								</li>
-								<li> js
+								<li>js
 									<ul>
-										<li> vendor </li>
+										<li>vendor</li>
 										<ul>
-											<li>jquery.js </li>
-											<li> main.js </li>
+											<li>jquery.js</li>
+											<li>main.js</li>
 										</ul>
 									</ul>
 								</li>
-								<li> img
+								<li>img
 									<ul>
-										<li>All Site Images </li>
+										<li>All Site Images</li>
 									</ul>
 								</li>
-								<li> favicon.ico </li>
+								<li>favicon.ico</li>
 							</ul>
+							<br/>
+							<h4>Content:</h4>
+							<ul>
+								<li>Navigation
+									<ul>
+										<li>list of links you choose to put on your site</li>
+										<li>Either a vertical or horizontal design</li>
+									</ul>
+								</li>
+								<li>Header
+									<ul>
+										<li>A "Hero Shot" (help the user know why they are there), with a small paragraph
+										and some call to action.  Example: Buy Now; or Learn more</li>
 
+										<li>Use Images or background colors to call attention to it</li>
+
+									</ul>
+								</li>
+								<li>Body
+									<ul>
+										<li>You choose this content *** Impress Me***</li>
+									</ul>
+								</li>
+								<li>Footer
+									<ul>
+										<li>Add a Copywrite to your stuff</li>
+										<li>Shortcut links</li>
+									</ul>
+								</li>
+							</ul>
+							<br/>
+							<h4>Create a Git Project &amp; email me the link.</h4>
 						</section>
 
 
 
 
 					</div>
-				<!-- end of shell -->
+					<!-- end of shell -->
 				</div>
 				<!-- end of container -->
 			</div>
@@ -127,14 +153,14 @@
 		<div id="footer-push"></div>
 		<!-- end of footer-push -->
 
-	<!-- end of wrapper -->
-	<!-- footer -->
-	<div  id="footer">
-		<span class="shadow-bottom"></span>
-		<!-- footer-cols -->
-		<div class="footer-cols">
-			<!-- shell -->
-			<div class="shell">
+		<!-- end of wrapper -->
+		<!-- footer -->
+		<div  id="footer">
+			<span class="shadow-bottom"></span>
+			<!-- footer-cols -->
+			<div class="footer-cols">
+				<!-- shell -->
+				<div class="shell">
 				<!-- <div class="col">
 					<h3><a href="#">Solutions</a></h3>
 					<div class="col-cnt">
