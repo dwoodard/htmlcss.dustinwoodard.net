@@ -62,9 +62,16 @@
 
 							<h2>References</h2>
 							<ul>
-								<li><a href="http://www.w3.org/TR/selectors/#selectors/">CSS Selectors</a></li>
 								<li><a href="https://github.com/dwoodard/jane_doe">GitHub - Dwoodard jane_doe</a></li>
-							</ul>
+								<li><a href="http://www.w3.org/TR/selectors/#selectors/">CSS Selectors</a></li>
+								<li><a href="http://www.regular-expressions.info/">Regular Expression</a>
+									<ul>
+										<li>
+											<a href="http://snipplr.com/all/language/regex">snipplr.com - RegEx</a>
+										</li>
+									</ul>
+									</li>
+								</ul>
 
 							</div>
 							<div class="col">
@@ -73,6 +80,20 @@
 							<ul>
 								<li><a href="http://www.oneplusyou.com/bb/html_quiz/">Name as many <em>Html Tags</em> as you can in 5 minutes</a></li>
 								<li><a href="http://www.oneplusyou.com/bb/css_quiz">Name as many <em>CSS Properties</em> as you can in 5 minutes</a></li>
+							</ul>
+
+							</div>
+							<div class="col">
+
+							<h2>Frameworks</h2>
+							<h3>Javascript</h3>
+							<ul>
+								<li><a href="http://jquery.com/">jQuery</a></li>
+							</ul>
+							<h3>CSS</h3>
+							<ul>
+								<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+								<li><a href="http://foundation.zurb.com/">Foundation</a></li>
 							</ul>
 
 							</div>

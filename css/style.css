@@ -162,7 +162,7 @@ body#projects .top-nav a#projects_nav{
 
 .main .cols { padding-bottom: px;  }
 .main .cols a.view { margin-right: 16px; position: absolute; bottom: 0; right: 45px; }
-.main .cols .col {min-height: 110px; width: 292px; float: left; background: url(images/col-separator.png) no-repeat right 0; padding-right: 45px; margin-right: 12px; padding-bottom: 16px; position: relative; }
+.main .cols .col {min-height: 110px; width: 265px; float: left; background: url(images/col-separator.png) no-repeat right 0; padding-right: 45px; margin-right: 12px; padding-bottom: 16px; position: relative; }
 .main .cols .col-cnt { padding-top: 7px; height:  100%; overflow: hidden }
 .main .cols .col img.alignleft { margin-right: 7px; }
 .main .cols .col.last { width: 280px; padding-right: 0; margin-right: 0; background: transparent; }
