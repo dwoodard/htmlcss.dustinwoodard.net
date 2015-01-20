@@ -32,7 +32,7 @@
 						<div class="header-cnt">
 							<h1>Tools</h1>
 							<p>
-								Get the right tool for job.
+								Get the right tool for the job.
 							</p>
 							<!-- <a href="#" class="blue-btn">GET STARTED NOW</a> -->
 						</div>

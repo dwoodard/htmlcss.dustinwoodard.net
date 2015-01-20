@@ -69,6 +69,13 @@
 				<div class="shell">
 					<div class="container">
 
+						
+						
+						<section>
+							<h2>HTML & CSS Packet</h2>
+							<a href="https://docs.google.com/document/d/1ocGsgnslxP2QRua4Ok21Rzm05BoL7u7vTwc23Li0XSg/pub?embedded=true">HTML CSS Packet</a>
+						</section>
+
 						<section>
 							<h2>Jane Doe Project</h2>
 							<a href="/projects/jane-doe.png">Jane Doe Template</a>
