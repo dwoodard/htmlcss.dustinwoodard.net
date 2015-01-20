@@ -60,7 +60,7 @@
 							<div class="content-right">
 								<ul>
 									<li> <a href="http://www.sublimetext.com/3">Sublime text download</a> </li>
-									<li> <a href="http://www.sublimetext.com/3">Wbond - Package manager</a> </li>
+									<li> <a href="https://packagecontrol.io/installation">Wbond - Package manager</a> </li>
 								</ul>
 							</div>
 
