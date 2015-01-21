@@ -152,7 +152,10 @@
 								<div class="col-cnt">
 									<p><a href="http://www.w3schools.com/tags/default.asp?utm_source=twitterfeed&utm_medium=twitter">W3Schools HTML5 Tags</a></p>
 
+									<p><a href="http://www.w3schools.com/cssref/">CSS Properties Reference</a></p>
+
 									<p><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list">Mozilla HTML5 element list</a></p>
+
 
 								</div>
 								<!-- <a href="#" class="view">View More</a> -->
