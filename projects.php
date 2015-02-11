@@ -71,7 +71,10 @@
 
 						<section>
 							<h2>HTML & CSS Packet</h2>
-							<a href="https://docs.google.com/document/d/1ocGsgnslxP2QRua4Ok21Rzm05BoL7u7vTwc23Li0XSg/pub?embedded=true">HTML CSS Packet (Basic Course)</a>
+							<ul>
+								<li><a href="https://docs.google.com/document/d/1ocGsgnslxP2QRua4Ok21Rzm05BoL7u7vTwc23Li0XSg/pub?embedded=true">HTML CSS Packet (Basic Course)</a></li>
+								<li><a href="https://docs.google.com/document/d/1vpcR-ADJPpVuE27t7jeBpQeNsciFb-f8r6u2JfJKWtU/pub?embedded=true">HTML CSS Packet (Intermediate Course)</a></li>
+							</ul>
 						</section>
 
 						<section>
