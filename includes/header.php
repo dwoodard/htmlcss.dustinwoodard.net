@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css' />
-	<link rel="stylesheet" href="http://cachedcommons.org/cache/960/0.0.0/stylesheets/960.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/960gs/0/960.min.css">
 
 	<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
 	<!--[if lt IE 9]>
